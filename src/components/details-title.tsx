@@ -1,9 +1,6 @@
 import styled from '@emotion/native';
 
-import {Typography} from './typography';
-
-//
-//
+import { Typography } from './typography';
 
 export const DetailsTitle = styled(Typography)({
   marginTop: 12,
